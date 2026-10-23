@@ -16,7 +16,7 @@
 
 Sou um estudante de tecnologia e desenvolvedor focado na criação de aplicações web completas. Atuo no **Front-end** construindo interfaces dinâmicas e no **Back-end** estruturando lógicas, bancos de dados e APIs. Gosto de transformar ideias em código e estou sempre buscando aprimorar minhas habilidades práticas.
 
-- 🔭 Atualmente trabalhando em uma equipe de sistema de gestão de monitoramento de veículos de carga na área portuária.
+- 🔭 Atualmente trabalhando em uma equipe para desenvolver um sistema de gestão de monitoramento de veículos de carga na área portuária.
 - 🌱 Atualmente aprendendo: Linguagem para backend - Java, MySQL | Front-end: HTML, CSS, JavaScript (DOM, Async/Await).
 - 💬 Pergunte-me sobre: HTML, CSS, JavaScript.
 
